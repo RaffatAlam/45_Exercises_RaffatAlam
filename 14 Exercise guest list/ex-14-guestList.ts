@@ -1,0 +1,2 @@
+let guestList = ["Sir Ameen", "Sir Zia khan", "Sir Daniyal Nagori", "Sir Aukasha" ];
+guestList.forEach(oneGuest => console.log(`Asalam o Aleikum\n\n Sir. ${oneGuest},\n\nWould you like to Dinner with me?\n\nI hope yoou will accept this invitation; Thankyou.`))
